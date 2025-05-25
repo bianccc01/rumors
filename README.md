@@ -1,4 +1,4 @@
-# RUMORS: RESTful User Movie Opinion Recommendation System
+# RUMORS: Restful Utilities for Movies Online Recommender System
 
 ## Project Description
 RUMORS is a comprehensive web service that implements RESTful APIs for an intelligent movie recommendation platform built on the MovieLens dataset. The system delivers tailored movie suggestions by analyzing user preferences and viewing patterns.
